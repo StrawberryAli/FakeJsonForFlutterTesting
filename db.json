@@ -1,4 +1,5 @@
 [
+  "posts":[
   {
     "userId": 1,
     "id": 1,
@@ -29,94 +30,19 @@
     "title": "Id 5",
     "body": "Item 5"
   },
+  ],
+  "comments":[
   {
-    "userId": 6,
-    "id": 6,
-    "title": "Id 6",
-    "body": "Item 6"
-  },
-  {
-    "userId": 7,
-    "id": 7,
-    "title": "Id 7",
-    "body": "Item 7"
-  },
-  {
-    "userId": 8,
-    "id": 8,
-    "title": "Id 8",
-    "body": "Item 8"
-  },
-  {
-    "userId": 9,
-    "id": 9,
-    "title": "Id 9",
-    "body": "Item 9"
-  },
-  {
-    "userId": 10,
-    "id": 10,
-    "title": "Id 10",
-    "body": "Item 10"
-  },
-  {
-    "userId": 11,
-    "id": 11,
-    "title": "Id 11",
-    "body": "Item 11"
-  },
-  {
-    "userId": 12,
-    "id": 12,
-    "title": "Id 12",
-    "body": "Item 12"
-  },
-  {
-    "userId": 13,
-    "id": 13,
-    "title": "Id 13",
-    "body": "Item 13"
-  },
-  {
-    "userId": 14,
-    "id": 14,
-    "title": "Id 14",
-    "body": "Item 14"
-  },
-  {
-    "userId": 15,
-    "id": 15,
-    "title": "Id 15",
-    "body": "Item 15"
-  },
-  {
-    "userId": 16,
-    "id": 16,
-    "title": "Id 16",
-    "body": "Item 16"
-  },
-  {
-    "userId": 17,
-    "id": 17,
-    "title": "Id 17",
-    "body": "Item 17"
-  },
-  {
-    "userId": 18,
-    "id": 18,
-    "title": "Id 18",
-    "body": "Item 18"
-  },
-  {
-    "userId": 19,
-    "id": 19,
-    "title": "Id 19",
-    "body": "Item 19"
-  },
-  {
-    "userId": 20,
-    "id": 20,
-    "title": "Id 20",
-    "body": "Item 20"
+    "userId": 1,
+    "id": 1,
+    "title": "CommentId 1",
+    "body": "Comment 1"
   }
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "CommentId 2",
+    "body": "Comment 2"
+  }
+  ]
 ]
