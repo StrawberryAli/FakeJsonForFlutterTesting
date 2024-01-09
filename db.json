@@ -1,48 +1,29 @@
 [
   "posts":[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "Id 1",
-    "body": "Item 1"
-  },
-  {
-    "userId": 2,
-    "id": 2,
-    "title": "Id 2",
-    "body": "Item 2"
-  },
-  {
-    "userId": 3,
-    "id": 3,
-    "title": "Id 3",
-    "body": "Item 3"
-  },
-  {
-    "userId": 4,
-    "id": 4,
-    "title": "Id 4",
-    "body": "Item 4"
-  },
-  {
-    "userId": 5,
-    "id": 5,
-    "title": "Id 5",
-    "body": "Item 5"
-  },
-  ],
-  "comments":[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "CommentId 1",
-    "body": "Comment 1"
-  }
-  {
-    "userId": 2,
-    "id": 2,
-    "title": "CommentId 2",
-    "body": "Comment 2"
-  }
+    {
+      "id": 1,
+      "title": "Id 1",
+      "body": "Item 1"
+    },
+    {
+      "id": 2,
+      "title": "Id 2",
+      "body": "Item 2"
+    },
+    {
+      "id": 3,
+      "title": "Id 3",
+      "body": "Item 3"
+    },
+    {
+      "id": 4,
+      "title": "Id 4",
+      "body": "Item 4"
+    },
+    {
+      "id": 5,
+      "title": "Id 5",
+      "body": "Item 5"
+    }
   ]
 ]
