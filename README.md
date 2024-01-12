@@ -1,4 +1,4 @@
-O app faz requerimento do site https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting
+O app faz requerimento do site https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting. Todo o código do app pode ser encontrado na pasta lib dentro de final_app
 
 AVISO: Como o site em si não é um servidor, nenhuma mudança que tentar fazer com o aplicativo (Ou de qualquer outra forma indireta) será fisicamente efetivada
 
