@@ -4,13 +4,9 @@ AVISO: Como o site em si não é um servidor, nenhuma mudança que tentar fazer 
 
 O json:
   O json contém nele uma estrutura chamada "posts". Cada item dessa estrutra contém três parâmetros:
-  - id
-    O id é o parâmetro que determina o link individual de cada item, apresentado no formato https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting/posts/{id_do_item}
-    Por exemplo, o item com id 2 pode ser acessado com o link https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting/posts/2
-  - title
-    Um valor puramente descritivo
-  - body
-    Um valor puramente descritivo
+  - id - O id é o parâmetro que determina o link individual de cada item, apresentado no formato https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting/posts/{id_do_item}. Por exemplo, o item com id 2 pode ser acessado com o link https://my-json-server.typicode.com/StrawberryAli/FakeJsonForFlutterTesting/posts/2
+  - title - Um valor puramente descritivo
+  - body - Um valor puramente descritivo
 
 O que o app faz:
   O app oferece 4 funções para requerir o api do "servidor":
